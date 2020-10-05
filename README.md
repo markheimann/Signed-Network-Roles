@@ -10,7 +10,7 @@ If you use our code, please cite our paper:
 ```
 @inproceedings{heimann2020structural,
   title={Structural Node Embedding in Signed Social Networks: Finding Online Misbehavior at Multiple Scales},
-  author={Heimann, Mark and Muri?, Goran and Ferrara, Emilio},
+  author={Heimann, Mark and Murić, Goran and Ferrara, Emilio},
   booktitle={Complex Networks},
   year={2020}
 }
