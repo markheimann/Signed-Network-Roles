@@ -1,7 +1,9 @@
 # Structural Node Embedding in Signed Networks
-This is a reference implementation for our structural node embedding methods for signed networks.  These can be used to learn features for individual nodes or entire graphs, when both positive and negative edges are present.  The features reflect the structural roles that the nodes play in the network.  
 
-The code will be available soon.  
+<a href="https://markheimann.github.io/papers/20CompNet_SignedRole.pdf">Structural Node Embedding in Signed Social Networks:
+Finding Online Misbehavior at Multiple Scales</a>
+
+This is a reference implementation for our structural node embedding methods for signed networks, sNCE and sRDE, along with the signed graphlets kernel.  Code for obtaining graph-level features from node embeddings using RGM can be found at <a href="https://github.com/GemsLab/RGM">its original source</a>.
 
 If you use our code, please cite our paper:
 
